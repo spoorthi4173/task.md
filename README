@@ -1,0 +1,21 @@
+# task.md
+
+## Task Details - Trading Accuracy Project
+
+This file is the Readme for task.md
+
+### All Files Included in this Repository:
+
+1. Load the file and report all data quality issues found.
+
+2. Clean it (Python/pandas or Excel) and explain every decision, such as drop vs fill.
+
+3. Sort by time and remove duplicates by trade_id.
+
+4. Add columns: spread (ask_1 - bid_1), mid_price, and order_imbalance = (bid_qty_1 - ask_qty_1) / (bid_qty_1 + ask_qty_1).
+
+5. Resample to 1-minute OHLCV candles.
+### Project Description
+This repository contains all trading accuracy codes submitted for VVIT task.
+
+Student: spoorthi4173
